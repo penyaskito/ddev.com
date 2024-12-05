@@ -31,7 +31,7 @@ The most popular commands are probably the ones you'd expect, `ddev composer`, `
 
 ## CMS Project Types
 
-Drupal, the generic "PHP" type, and TYPO3 remain the most popular, but they're the ones with the longest-term support. But look at Laravel, Craft CMS, and Laravel getting more popular all the time! 
+Drupal, the generic "PHP" type, and TYPO3 remain the most popular, but they're the ones with the longest-term support. But look at WordPress, Craft CMS, and Laravel getting more popular all the time! 
 
 ![Most Popular CMS Project Types](/img/blog/2024/11/CMS-project-types.png)
 
